@@ -107,69 +107,68 @@ password: 123
 ## 🖼 Screenshots
 ```bash
 ### 🔐 Login
-![Login](screenshots/login.png)
+![Login](Library Management System/screenshorts/Login.png)
 
 ### 🏠 Home Dashboard
-![Home](screenshots/home.png)
-
-### 📘 Add Book
-![Add Book](screenshots/addbook.png)
+![Home](Library Management System/screenshorts/Home.png)
 
 ### 🎓 Student Registration
-![Student Registration](screenshots/studentreg.png)
+![Student Registration](Library Management System/screenshorts/Student Registration.png)
+
+### 📘 Add Book
+![Add Book](Library Management System/screenshorts/Add Book.png)
 
 ### 🔄 Issue Book
-![Issue Book](screenshots/issuebook.png)
+![Issue Book](Library Management System/screenshorts/Issue Book.png)
 
 ### 📥 Return Book
-![Return Book](screenshots/returnbook.png)
+![Return Book](Library Management System/screenshorts/Return Book.png)
 
 ### 🚀 Loading Screens
-![L1](screenshots/l1.png)
-![L2](screenshots/l2.png)
+![L1](Library Management System/screenshorts/L1.png)
+![L2](Library Management System/screenshorts/L2.png)
 
 ```
 ## 📁 Repository Structure
 
 ```
-├── 📂 src/
-│   ├── 📂 screenshorts/
-|       ├── 📄 library.sql
+
+├── 📂 screenshorts/
+|   ├── 📄 library.sql
 |
-│   ├── 📂 img/
-|       ├── 📄 IssueBg.jpg
-|       ├── 📄 issue book icon.jpg
-|       ├── 📄 bookBg.jpg
-|       ├── 📄 book.png
-|       ├── 📄 registration-icon.jpg
-|       ├── 📄 StudentRegistration.jpg
-|       ├── 📄 Home.jpg
-|       ├── 📄 logout.png
-|       ├── 📄 login.jpg
-|       ├── 📄 Xbutton.png
-|       ├── 📄 L2.jpg
-|       ├── 📄 L1.jpg
+├── 📂 img/
+|   ├── 📄 IssueBg.jpg
+|   ├── 📄 issue book icon.jpg
+|   ├── 📄 bookBg.jpg
+|   ├── 📄 book.png
+|   ├── 📄 registration-icon.jpg
+|   ├── 📄 StudentRegistration.jpg
+|   ├── 📄 Home.jpg
+|   ├── 📄 logout.png
+|   ├── 📄 login.jpg
+|   ├── 📄 Xbutton.png
+|   ├── 📄 L2.jpg
+|   ├── 📄 L1.jpg
 |
-│   ├── 📂 library/
-│       ├── 📂 management/
-│           ├── 📂 system/
-|               ├── 📄 AddBook.java
-│               ├── 📄 AddBook.form
-│               ├── 📄 StudentRegistration.java
-│               ├── 📄 StudentRegistration.form
-│               ├── 📄 IssueBook.java
-│               ├── 📄 IssueBook.form
-│               ├── 📄 ReturnBook.java
-│               ├── 📄 ReturnBook.form
-│               ├── 📄 Login.java
-│               ├── 📄 Login.form
-│               ├── 📄 Home.java
-│               ├── 📄 Home.form
-│               ├── 📄 Connect.java
-│               ├── 📄 L1.java     
-│               ├── 📄 L1.form
-│               ├── 📄 L2.java       
-│               ├── 📄 L2.form
+├── 📂 library/
+│    ├── 📂 management/
+│       ├── 📂 system/
+|           ├── 📄 AddBook.java
+│           ├── 📄 AddBook.form
+│           ├── 📄 StudentRegistration.java
+│           ├── 📄 StudentRegistration.form
+│           ├── 📄 IssueBook.java
+│           ├── 📄 IssueBook.form
+│           ├── 📄 ReturnBook.java
+│           ├── 📄 ReturnBook.form
+│           ├── 📄 Login.java
+│           ├── 📄 Login.form
+│           ├── 📄 Home.java
+│           ├── 📄 Home.form
+│           ├── 📄 Connect.java
+│           ├── 📄 L1.java     
+│           ├── 📄 L1.form
+│           ├── 📄 L2.java       
+│           ├── 📄 L2.form
  
 ```
----
